@@ -16,3 +16,6 @@ Use it on your own risk. I'm not responsible for anything!
 ## Credits
 - Made with CTRLR 5.3.201 (uses JUCE)
 - The standard rotary knob is made by Joe Beuckman, many thanks for his permission.
+
+## License
+See [License](./License.md)
