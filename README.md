@@ -2,6 +2,8 @@
 Midi Remote Panel for Multi-FX Sony DPS-V77
 
 <img width="1428" height="926" alt="grafik" src="https://github.com/user-attachments/assets/c584a28c-407d-4935-af61-9c36462ff996" />
+
+
 <img width="1428" height="923" alt="grafik" src="https://github.com/user-attachments/assets/f18c03fa-f113-4d13-b640-164d0e56f6a8" />
 
 Use it on your own risk. I'm not responsible for anything!
