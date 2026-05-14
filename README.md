@@ -12,7 +12,7 @@ Use it on your own risk. I'm not responsible for anything!
 
 ## Known bugs
 - parameter for Algorithm Freez and OSC (Ringmodulator) are not working correct.
-- APC-lists show FXA and FXB-parameters in MORPHING-Mode. Needs filtering for only FXA.
+- APC- and RTC-lists show FXA and FXB-parameters in MORPHING-Mode. Needs filtering for only FXA.
 
 ## Credits
 - Made with CTRLR 5.3.201 (uses JUCE)
