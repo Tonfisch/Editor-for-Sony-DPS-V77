@@ -20,6 +20,9 @@ Midi Remote Panel for Multi-FX Sony DPS-V77
 <img width="611" height="397" alt="V77-RPC-Manual_Para-Lonf" src="https://github.com/user-attachments/assets/51051e00-7177-4b7a-8592-8892f854c277" />
 
 Use it on your own risk. I'm not responsible for anything!
+Please backup your userpresets first.
+
+Tested on CTRLR 5.3.201 and CtrlrX 5.6.35
 
 ## Known bugs
 - parameter for Algorithm Freez and OSC (Ringmodulator) are not working correct.
